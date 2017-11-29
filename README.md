@@ -15,15 +15,15 @@ AppCoda: https://www.appcoda.com/ </br>
 Youtube - Lets Build That App: https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA </br>
 
 #### Newsletters
-iOS Dev Weekly: https://iosdevweekly.com
-iOS Goodies: http://ios-goodies.com/
-Little bites of cocoa: https://littlebitesofcocoa.com/
-Swift Dev Weekly: http://swiftweekly.com/
-Weekly Cocoa: https://weeklycocoa.news/
+iOS Dev Weekly: https://iosdevweekly.com </br>
+iOS Goodies: http://ios-goodies.com/ </br>
+Little bites of cocoa: https://littlebitesofcocoa.com/ </br>
+Swift Dev Weekly: http://swiftweekly.com/ </br>
+Weekly Cocoa: https://weeklycocoa.news/ </br>
 
 #### Książki
-Ray Wenderlich https://store.raywenderlich.com/
-Big Nerd Ranch Guide https://www.bignerdranch.com/books/
+Ray Wenderlich https://store.raywenderlich.com/ </br>
+Big Nerd Ranch Guide https://www.bignerdranch.com/books/ </br>
 
 ### Kompilator Swift
 Windows: https://swiftforwindows.github.io/ </br>
